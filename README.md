@@ -4,3 +4,8 @@
 此方法用於Sky Finder dataset(https://mypages.valdosta.edu/rpmihail/skyfinder/) 上，解決原本由BicycleGAN所生成的圖片在細節會有模糊以及不夠真實的問題並且增強邊界的穩定性。
 
 可利用此方法作為Data Augmentation來增強Segmentation model的效能。
+
+![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/compare_detail2.png)
+
+![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/compare_detail2_detail.png)
+
