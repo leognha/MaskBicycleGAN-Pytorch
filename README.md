@@ -1,0 +1,2 @@
+# MaskBicycleGAN-Pytorch
+在訓練BicycleGAN的過程中加入Mask，使得生成圖片的品質能夠更好
