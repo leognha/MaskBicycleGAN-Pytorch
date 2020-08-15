@@ -5,6 +5,18 @@
 
 可利用此方法作為Data Augmentation來增強Segmentation model的效能。
 
+# 生成圖像的漸進變化
+有關雲的多寡:
+![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/D1.png)
+
+有關色調的變化:
+![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/D6.png)
+
+有關良暗程度的變化:
+![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/D8.png)
+
+
+# 有關細節的比較
 ![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/compare_detail2.png)
 
 ![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/compare_detail2_detail.png)
