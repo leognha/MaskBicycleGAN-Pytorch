@@ -12,7 +12,7 @@
 有關色調的變化:
 ![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/D6.png)
 
-有關良暗程度的變化:
+有關亮暗程度的變化:
 ![image](https://github.com/leognha/MaskBicycleGAN-Pytorch/blob/master/img/D8.png)
 
 
